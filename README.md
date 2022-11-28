@@ -7,7 +7,7 @@
         <img alt="LinkedinArmando" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
     <a href="mailto:armando.arredondo.valle@gmail.com">
-        <img alt = "Tony's Mail" src = "https://img.shields.io/badge/Gmail-d92b37?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+        <img alt = "Armando's Mail" src = "https://img.shields.io/badge/Gmail-d92b37?style=for-the-badge&logo=gmail&logoColor=white" height=25>
     </a>
 </p>
 
@@ -15,48 +15,72 @@
 
 <br> </br>
 
-
-
+<div className = "Badges">
+    <h2 align = "center">Badges</h2>
+<div className = "NVIDIABadge" align = "center">
+    <h3 font-size = "2rem">Funtamentals of Deep Learning</h3>
+    <h4 align = "center">NVIDIA</h4>
+    <img  src = "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0/1561949205873?e=1677715200&v=beta&t=a40haejtTVhI59FMYBV16KRNN_y1d8sdP7aMM-PAVGc" height=80 align = "center" margin = "0 auto">
+    <p align = "center"> For the successful completion of Fundamentals of Deep Learning Course. </p>
+    </div>
+</div>
 <br> </br>
 
-### 💻 &nbsp; Programming languages  :
+### 💻 &nbsp; Programming languages:
 
+#### Web development:
 <code>
-    <img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" >
+    <img alt = "HTML" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 </code>
 
 <code>
-    <img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" >
+    <img alt = "Css" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 </code>
 
 <code>
-    <img alt = "R" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" >
+    <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+</code>
+
+
+#### Other languages:
+
+<code>
+    <img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </code>
 
 <code>
-    <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" >
+    <img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </code>
 
 <code>
-    <img alt = "HTML" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" >
+    <img alt = "R" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
 </code>
 
 <code>
-    <img alt = "Css" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" >
-</code>
-
-
-<code>
-    <img alt = "MySQL" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" >
+    <img alt = "Matlab" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
 </code>
 
 <code>
-    <img alt = "React.js" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" >
+    <img alt = "Arduino" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+
+</code>
+
+#### Technologies:
+
+<code>
+    <img alt = "MySQL" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </code>
 
 <code>
-    <img alt = "Matlab" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" >
+    <img alt = "React.js" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </code>
+
+<code>
+    <img alt = "pandas" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+</code>
+
+#### Software:
+
 
 
 <br></br>
