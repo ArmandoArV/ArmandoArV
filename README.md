@@ -26,63 +26,36 @@
 </div>
 <br> </br>
 
-### 💻 &nbsp; Programming languages:
-
-#### Web development:
-<code>
+<div className = "progContainer" align = "center">
+    <h2> Programming languages & technologies: </h2>
+<div align = "center">
+    <h3>Web development: </h3>
     <img alt = "HTML" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-</code>
-
-<code>
     <img alt = "Css" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-</code>
-
-<code>
     <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-</code>
+</div>
 
-
-#### Other languages:
-
-<code>
+<div align = "center">
+    <h3>Programming languages:</h3>
     <img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-</code>
-
-<code>
     <img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-</code>
-
-<code>
     <img alt = "R" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-</code>
-
-<code>
     <img alt = "Matlab" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
-</code>
-
-<code>
     <img alt = "Arduino" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+</div>
 
-</code>
-
-#### Technologies:
-
-<code>
+<div>
+    <h3 align = "center"> Technologies</h3>
     <img alt = "MySQL" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-</code>
-
-<code>
     <img alt = "React.js" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-</code>
-
-<code>
     <img alt = "pandas" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-</code>
+</div>
 
-#### Software:
-
-
-
+<div className = "Software" align="center">
+    <h2 align = "center">Software:</h2>
+<img alt = "solid" height = "50" src = "https://media-exp1.licdn.com/dms/image/C4E0BAQHNJqcQiYDg2Q/company-logo_200_200/0/1519875335883?e=1677715200&v=beta&t=NwYtDnab1A4nEM0Xjg-pQ8emAOdai2Ssr7E2VNjmvJ4">
+</div>
+</div>
 <br></br>
 
 
