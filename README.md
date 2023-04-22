@@ -17,12 +17,6 @@
 
 <div className = "Badges">
     <h2 align = "center">Badges</h2>
-<div className = "NVIDIABadge" align = "center">
-    <h3 font-size = "2rem">Funtamentals of Deep Learning</h3>
-    <h4 align = "center">NVIDIA</h4>
-    <img  src = "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0/1561949205873?e=1677715200&v=beta&t=a40haejtTVhI59FMYBV16KRNN_y1d8sdP7aMM-PAVGc" height=80 align = "center" margin = "0 auto">
-    <p align = "center"> For the successful completion of Fundamentals of Deep Learning Course. </p>
-    </div>
 </div>
 <br> </br>
 
@@ -59,13 +53,6 @@
 <br></br>
 
 
-
-### Experience:
-
-[<img align="left" height="80px" width="80px" alt="Microsoft" src="https://media-exp1.licdn.com/dms/image/D560BAQGJYN4TZcVwBA/company-logo_200_200/0/1667508211413?e=1677715200&v=beta&t=4kOllIyAo5IBaV5pyRX3bZhMGV4Hnyevhrz1dw9q-Ag"/>](https://www.microsoft.com/)
-
-**IKTAN ROVING (Oct 2021 - Present)** \
-[**IKTAN ROVING**] • Front-end Developer, Task tools leader\
 Languages & Technologies: `React`, `JavaScript`, `C++`, `MySQL`, `Python`,`SolidWorks` \
 <br/>
 <br/>
