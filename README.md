@@ -66,9 +66,10 @@ Languages & Technologies: `React`, `JavaScript`, `C++`, `MySQL`, `Python`,`Solid
 
 
 [![ArmandoArV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandoArV&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/ArmandoArV/github-readme-stats)
+
 <br/>
 
-[![ArmandoArV's GitHub code](https://github-readme-stats.vercel.app/api/top-langs?username=ArmandoArV&show_icons=true&locale=en&layout=compact&hide=html,Kotlin)]
+[![ArmandoArV's GitHub code](https://github-readme-stats.vercel.app/api/top-langs?username=ArmandoArV&show_icons=true&locale=en&layout=compact&hide=html,Kotlin)
 
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ArmandoArV.ArmandoArV)
