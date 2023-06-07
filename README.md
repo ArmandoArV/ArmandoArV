@@ -45,15 +45,9 @@
     <img alt = "pandas" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
 </div>
 
-<div className = "Software" align="center">
-    <h2 align = "center">Software:</h2>
-<img alt = "solid" height = "50" src = "https://media-exp1.licdn.com/dms/image/C4E0BAQHNJqcQiYDg2Q/company-logo_200_200/0/1519875335883?e=1677715200&v=beta&t=NwYtDnab1A4nEM0Xjg-pQ8emAOdai2Ssr7E2VNjmvJ4">
-</div>
 </div>
 <br></br>
 
-
-Languages & Technologies: `React`, `JavaScript`, `C++`, `MySQL`, `Python`,`SolidWorks` \
 <br/>
 <br/>
 
@@ -65,8 +59,9 @@ Languages & Technologies: `React`, `JavaScript`, `C++`, `MySQL`, `Python`,`Solid
 <br/>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ArmandoArV&show_icons=true&theme=tokyonight&hide=stars,issues"></p>
+<p align = "center"><img  src="https://github-readme-stats.vercel.app/api?username=ArmandoArV&show_icons=true&theme=tokyonight&hide=stars,issues"></p>
 
+<br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmandoArV&show_icons=true&locale=en&theme=tokyonight&hide=html,Kotlin"></p>
-
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArmandoArV&show_icons=true&locale=en&theme=tokyonight&hide=html,Kotlin"></p>
+<br/>
