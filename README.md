@@ -27,6 +27,8 @@
     <img alt = "HTML" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img alt = "Css" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img alt = "TypeScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+
 </div>
 
 <div align = "center">
