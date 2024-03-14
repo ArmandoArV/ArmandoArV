@@ -15,10 +15,7 @@
 
 <br> </br>
 
-<div className = "Badges">
-    <h2 align = "center">Badges</h2>
-</div>
-<br> </br>
+
 
 <div className = "progContainer" align = "center">
     <h2> Programming languages & technologies: </h2>
@@ -40,12 +37,18 @@
     <img alt = "Matlab" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
     <img alt = "Arduino" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
+<div>
+    <h3 align = "center"> Databases </h3>
+    <img alt = "MySQL" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img alt = "Oracle" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+
+</div>
 
 <div>
     <h3 align = "center"> Technologies</h3>
-    <img alt = "MySQL" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     <img alt = "React.js" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img alt = "pandas" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+    <img alt = "Nextjs" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 </div>
 
 </div>
