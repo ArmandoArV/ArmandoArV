@@ -28,7 +28,7 @@
     <img alt = "Css" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img alt = "TypeScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img alt = "Go" height="50" src = "[https://github.com/devicons/devicon/blob/icons/go/go-original-wordmark.svg"](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg)>
+    <img alt = "Go" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 
 </div>
 
