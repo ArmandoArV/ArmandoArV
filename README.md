@@ -23,9 +23,7 @@
     <h3>Web development: </h3>
     <img alt = "HTML" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img alt = "Css" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img alt = "TypeScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-    <img alt = "Go" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+    <img alt = "tailwindCSS" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 
 </div>
 
@@ -36,14 +34,21 @@
     <img alt = "R" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
     <img alt = "Matlab" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
     <img alt = "Arduino" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+    <img alt = "cSharp" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img alt = "TypeScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img alt = "Go" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 </div>
 <div>
     <h3 align = "center"> Databases </h3>
     <img alt = "MySQL" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     <img alt = "Oracle" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-
 </div>
-
+<div>
+    <h3 align = "center"> Cloud </h3>
+    <img alt = "AWS" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img alt = "Azure" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
+</div>
 <div>
     <h3 align = "center"> Technologies</h3>
     <img alt = "React.js" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
