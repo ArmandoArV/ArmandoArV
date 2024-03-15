@@ -18,7 +18,7 @@
 
 
 <div className = "progContainer" align = "center">
-    <h2> Programming languages & technologies: </h2>
+    <h2> Programming languages & technologies </h2>
 <div align = "center">
     <h3>Web development: </h3>
     <img alt = "HTML" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@
 </div>
 
 <div align = "center">
-    <h3>Programming languages:</h3>
+    <h3>Programming languages</h3>
     <img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
     <img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img alt = "R" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
