@@ -20,7 +20,7 @@
 <div className = "progContainer" align = "center">
     <h2> Programming languages & technologies </h2>
 <div align = "center">
-    <h3>Web development: </h3>
+    <h3>Web development </h3>
     <img alt = "HTML" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img alt = "Css" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img alt = "tailwindCSS" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
